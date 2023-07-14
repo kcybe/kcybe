@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/kcybe" />
+    <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=kcybe" />
 </p>
