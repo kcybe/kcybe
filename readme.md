@@ -17,9 +17,9 @@
 
   <a href="https://github.com/kcybe/kcybe/issues">
     <strong><u>write something nice in my guest book</u></strong>
-    <br>
-    <img src="assets/book.gif" width="85px">
   </a>
+  </br>
+  <img src="https://raw.githubusercontent.com/kcybe/kcybe/refs/heads/main/assets/book.gif" width="85px">
 
   <hr>
 
@@ -33,3 +33,4 @@
   <img src="https://komarev.com/ghpvc/?username=kcybe&label=Profile%20views&color=0dd349&style=flat-square" alt="Profile Views">
 
 </div>
+
