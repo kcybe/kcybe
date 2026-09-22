@@ -1,36 +1,21 @@
-<div align="center">
+### 👋 Hi there, I'm Noam, a developer based in Israel
 
-  <img src="assets/welcome_header.gif" alt="Welcome Header">
+I've been building web products, developer tools, and AI-powered applications for the past few years.
 
-  <p>
-    my name is Noam and I like
-    <img src="assets/programming.gif" width="30px" style="vertical-align:middle;">
-  </p>
+### Languages & Tools
 
-  <a href="https://noamyu.dev/">
-    <strong><u>visit my personal site</u></strong>
-  </a>
-  <br>
-  <img src="assets/earth.gif" width="125px">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,python,postgres,prisma,docker,git,github,tailwind,vercel,linux" alt="Languages and tools">
 
-  <hr>
+[Personal website](https://noamyu.dev/) · [Guest book](https://github.com/kcybe/kcybe/issues)
 
-  <a href="https://github.com/kcybe/kcybe/issues">
-    <strong><u>write something nice in my guest book</u></strong>
-  </a>
-  </br>
-  <img src="https://raw.githubusercontent.com/kcybe/kcybe/refs/heads/main/assets/book.gif" width="85px">
+<img src="https://komarev.com/ghpvc/?username=kcybe&label=Profile%20views&color=0dd349&style=flat-square" alt="Profile views">
 
-  <hr>
+### Contribution snake
 
-  <p>have a nice day!</p>
-  <img src="assets/smiley-smile.gif" width="85px">
-  
-  <br>
-  
-  <strong><u>Profile views</u></strong>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=kcybe&label=Profile%20views&color=0dd349&style=flat-square" alt="Profile Views">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kcybe/kcybe/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kcybe/kcybe/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kcybe/kcybe/output/github-contribution-grid-snake.svg">
+</picture>
 
-</div>
-
+The animation is updated daily by [this GitHub Action](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid).
